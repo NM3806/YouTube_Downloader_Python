@@ -66,4 +66,6 @@ This is a simple YouTube Video Downloader application built using Python, Tkinte
 - onProgress(): Callback function to update the progress bar and percentage during the download process.
 - customtkinter: Custom Tkinter library for creating modern user interfaces.
 
+You might face problems in installing ffmpeg, I suggest you to refer to a tutorial online.
+
 Enjoy downloading YouTube videos and audio with this simple app!
