@@ -1,6 +1,8 @@
 # 🎬 YouTube Video Downloader
 
 > A clean, modern desktop app for downloading YouTube videos and audio with ease.
+> <img width="913" height="881" alt="image" src="https://github.com/user-attachments/assets/4bead3a3-a0ad-49a8-a64c-8d1125eca824" />
+
 
 <div align="center">
 
